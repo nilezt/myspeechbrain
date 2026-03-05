@@ -1,0 +1,12 @@
+
+1. Go to this website https://www.openslr.org/12
+
+2. wget https://openslr.trmal.net/resources/12/dev-clean.tar.gz
+
+3. tar -xvzf dev-clean.tar.gz
+
+4. mv LibriSpeech dataset
+
+5. pip install -r requirements.txt
+
+6. pip install -e
