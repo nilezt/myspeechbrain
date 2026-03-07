@@ -57,6 +57,7 @@ dataloader_options:
     batch_size: !ref <batch_size>
     shuffle: !ref <shuffle>
     num_workers: !ref <num_workers>
+    pin_memory: True
 
 # Functions
 compute_features: !new:speechbrain.lobes.features.Fbank
