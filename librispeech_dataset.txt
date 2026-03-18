@@ -1,0 +1,2 @@
+wget https://openslr.trmal.net/resources/12/test-clean.tar.gz
+tar -xf test-clean.tar.gz
